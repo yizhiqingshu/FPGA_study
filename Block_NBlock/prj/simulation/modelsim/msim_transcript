@@ -1,0 +1,44 @@
+# Reading C:/altera/13.0/modelsim_ase/tcl/vsim/pref.tcl 
+# do block_nblock_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+F:/Code/FPGA_study/Block_NBlock/rtl {F:/Code/FPGA_study/Block_NBlock/rtl/block_nblock.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module block_nblock
+# 
+# Top level modules:
+# 	block_nblock
+# 
+# vlog -vlog01compat -work work +incdir+F:/Code/FPGA_study/Block_NBlock/prj/../testbensh {F:/Code/FPGA_study/Block_NBlock/prj/../testbensh/block_nblock_db.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module block_nblock_db
+# 
+# Top level modules:
+# 	block_nblock_db
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  block_nblock_db
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps block_nblock_db 
+# Loading work.block_nblock_db
+# Loading work.block_nblock
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Break in Module block_nblock_db at F:/Code/FPGA_study/Block_NBlock/prj/../testbensh/block_nblock_db.v line 38
+# Simulation Breakpoint: Break in Module block_nblock_db at F:/Code/FPGA_study/Block_NBlock/prj/../testbensh/block_nblock_db.v line 38
+# MACRO ./block_nblock_run_msim_rtl_verilog.do PAUSED at line 17
+add wave -position insertpoint sim:/block_nblock_db/block_nblock1/*
+run -all
+# Break key hit 
+# Simulation stop requested.

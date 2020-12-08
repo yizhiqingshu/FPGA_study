@@ -1,0 +1,68 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Code\FPGA_study\BCD_Counter\prj\simulation\modelsim
+vBCD_counter
+IHlNZl90zedEfOZPZmIc5P0
+VY]L`TaM2fjiR6ESWommbX3
+Z1 dF:\Code\FPGA_study\BCD_Counter\prj\simulation\modelsim
+w1607414915
+8F:/Code/FPGA_study/BCD_Counter/rtl/BCD_counter.v
+FF:/Code/FPGA_study/BCD_Counter/rtl/BCD_counter.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+F:/Code/FPGA_study/BCD_Counter/rtl -O0
+n@b@c@d_counter
+!i10b 1
+!s100 25<g;aTEc9@]?b6dN_cAR2
+!s85 0
+!s108 1607414924.392000
+!s107 F:/Code/FPGA_study/BCD_Counter/rtl/BCD_counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Code/FPGA_study/BCD_Counter/rtl|F:/Code/FPGA_study/BCD_Counter/rtl/BCD_counter.v|
+!s101 -O0
+vBCD_Counter_top
+I[Y8Cbn9CNHJ>QLWbn2oK72
+Vc@W>X7Z0D?Uf2=X9E^^CP3
+R1
+w1607413013
+8F:/Code/FPGA_study/BCD_Counter/rtl/BCD_Counter_top.v
+FF:/Code/FPGA_study/BCD_Counter/rtl/BCD_Counter_top.v
+L0 1
+R2
+r1
+31
+R3
+n@b@c@d_@counter_top
+R4
+!i10b 1
+!s100 NR?IHizIBe[lP4O3:7L]20
+!s85 0
+!s108 1607414924.305000
+!s107 F:/Code/FPGA_study/BCD_Counter/rtl/BCD_Counter_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Code/FPGA_study/BCD_Counter/rtl|F:/Code/FPGA_study/BCD_Counter/rtl/BCD_Counter_top.v|
+!s101 -O0
+vBCD_Counter_top_tb
+!i10b 1
+!s100 Mk]5^Of2J?lKj7<KoURjR0
+IgLnBngKhZTIBHS?J@PnVk1
+V^03=6lD>Bk=?kTzLo8W5D1
+R1
+w1607414322
+8F:/Code/FPGA_study/BCD_Counter/prj/../testbensh/BCD_Counter_top_tb.v
+FF:/Code/FPGA_study/BCD_Counter/prj/../testbensh/BCD_Counter_top_tb.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1607414924.502000
+!s107 F:/Code/FPGA_study/BCD_Counter/prj/../testbensh/BCD_Counter_top_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Code/FPGA_study/BCD_Counter/prj/../testbensh|F:/Code/FPGA_study/BCD_Counter/prj/../testbensh/BCD_Counter_top_tb.v|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+F:/Code/FPGA_study/BCD_Counter/prj/../testbensh -O0
+n@b@c@d_@counter_top_tb

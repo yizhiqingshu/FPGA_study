@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Code\FPGA_study\Block_NBlock\prj\simulation\modelsim
+vblock_nblock
+INERz9V2Yz]OjT<f[^>gTj1
+VLVX]O@zkVLmZ7K`97ao0?3
+Z1 dF:\Code\FPGA_study\Block_NBlock\prj\simulation\modelsim
+w1607415838
+8F:/Code/FPGA_study/Block_NBlock/rtl/block_nblock.v
+FF:/Code/FPGA_study/Block_NBlock/rtl/block_nblock.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+!i10b 1
+!s100 6QzeR0FKcT2MD[4dT7Jl_0
+!s85 0
+!s108 1607417116.325000
+!s107 F:/Code/FPGA_study/Block_NBlock/rtl/block_nblock.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Code/FPGA_study/Block_NBlock/rtl|F:/Code/FPGA_study/Block_NBlock/rtl/block_nblock.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/Code/FPGA_study/Block_NBlock/rtl -O0
+vblock_nblock_db
+!i10b 1
+!s100 lmC3H@GVQiYQc`589X0dZ2
+IZa_GUQcDR1Ha:aAM5V<Z01
+V^=aL?<e:<=^Nf[ObRkL[h1
+R1
+w1607417106
+8F:/Code/FPGA_study/Block_NBlock/prj/../testbensh/block_nblock_db.v
+FF:/Code/FPGA_study/Block_NBlock/prj/../testbensh/block_nblock_db.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1607417116.412000
+!s107 F:/Code/FPGA_study/Block_NBlock/prj/../testbensh/block_nblock_db.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Code/FPGA_study/Block_NBlock/prj/../testbensh|F:/Code/FPGA_study/Block_NBlock/prj/../testbensh/block_nblock_db.v|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+F:/Code/FPGA_study/Block_NBlock/prj/../testbensh -O0
